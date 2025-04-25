@@ -1,3 +1,3 @@
-export default productdetaile(){
-  return <h1> Product details</h1>;
+export default function ProductDetail() {
+  return <h1>Product details</h1>;
 }
