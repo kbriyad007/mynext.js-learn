@@ -1,3 +1,3 @@
-export default function home() {
+export default function profile() {
   return <h1>Profile</h1>;
 }
