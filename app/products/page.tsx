@@ -1,3 +1,5 @@
 default export function products(){
-  return <h1>Product List</h1>
+  return (
+    <h1>Product List</h1>
+    );
 }
