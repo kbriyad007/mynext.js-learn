@@ -1,4 +1,4 @@
-export default function products(){
+export default function product(){
   return (
     <h1>Product List</h1>
     );
