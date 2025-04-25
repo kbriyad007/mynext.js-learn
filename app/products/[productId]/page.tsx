@@ -4,6 +4,6 @@ interface ProductDetailsProps {
   };
 }
 
-export default function ProductDetails({ params }){
-return <h1> Details about product {params.productId}</h1>;
+export default function ProductDetails({ params }: ProductDetailsProps) {
+  return <h1>Details about product {params.productId}</h1>;
 }
